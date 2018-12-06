@@ -1,4 +1,4 @@
-# 中国评书网
+#  中国评书网批量下载
 
 ###  编译
     go build .
@@ -7,6 +7,8 @@
     go build -ldflags "-s -w"
 ###  压缩执行文件
 upx -9 zgpingshu
+
+#  使用说明
 
 ##  下载专辑 http://shantianfang.zgpingshu.com/575/#play   
     
