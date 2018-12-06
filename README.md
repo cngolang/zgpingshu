@@ -21,3 +21,6 @@
     linux:  ./zgpingshu   -q 10  http://shantianfang.zgpingshu.com/1040/#play  
 
 ##  需重新下载某个节目音频，直接删除对应文件，重新执行命令即可，提示网络异常，直接ctrl+c，重新执行  
+
+
+使用了@WindGreen 兄弟写的多线程下载模块，https://github.com/WindGreen/fileload 感谢额
