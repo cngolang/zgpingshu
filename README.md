@@ -6,7 +6,7 @@
 #### 优化压缩编译
     go build -ldflags "-s -w"
 ###  压缩执行文件
-upx -9 zgpingshu
+    upx -9 zgpingshu
 
 #  使用说明
 
