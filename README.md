@@ -1,5 +1,10 @@
 #  中国评书网批量下载
 
+    zgpingshu  linux 64版本
+    zgpingshu.exe win10 64版本(不知win764是否正常工作)
+    zgpingshu-win7_xp_32.exe win7/xp 32版本
+
+
 ###  编译
     go build .
     
